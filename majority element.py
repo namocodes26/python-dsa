@@ -1,4 +1,4 @@
-from typing import list
+from typing import List
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
         n = len(nums)
